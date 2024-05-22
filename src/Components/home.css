@@ -1,0 +1,9 @@
+.toggle-switch-container {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.toggle-switch-container span {
+    margin-right: 10px;
+}
